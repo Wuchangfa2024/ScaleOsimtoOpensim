@@ -1,0 +1,9 @@
+conda create -n OpensimScale
+
+conda activate 123
+
+conda install python==3.11
+
+conda install numpy
+
+conda install -c opensim-org opensim
